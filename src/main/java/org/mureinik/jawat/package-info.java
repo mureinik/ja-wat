@@ -3,4 +3,4 @@
  *
  * @author Allon Mureinik
  */
-package org.mureinik;
+package org.mureinik.jawat;
