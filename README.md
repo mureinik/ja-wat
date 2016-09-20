@@ -1,7 +1,8 @@
 # Ja-WAT?!
 
-Example files for Allon Mureinik's Ja-WAT? presentation at
-[Reversim Summit 2016](http://summit2016.reversim.com/).
+Example files for Allon Mureinik's
+[Ja-WAT?](http://www.slideshare.net/AllonMureinik/reversim-summit-2016-jawat)
+presentation at [Reversim Summit 2016](http://summit2016.reversim.com/).
 
 ## How to use this repository
 
