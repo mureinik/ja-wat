@@ -2,7 +2,7 @@
 
 Example files for Allon Mureinik's
 [Ja-WAT?](http://www.slideshare.net/AllonMureinik/reversim-summit-2016-jawat)
-ignite session at [DevConf.CZ 2018](https://devconf.cz/cz/2018).
+lightening talk at [DevConf.CZ 2018](https://devconf.cz/cz/2018).
 
 ## How to use this repository
 
