@@ -7,8 +7,8 @@ package org.mureinik.jawat.concat;
  */
 public class FunWithString_Example1 {
     public static void main(String[] args) {
-        String str = "Reversim";
-        str = str + "1" + "6";
+        String str = "DevConfCZ";
+        str = str + "1" + "8";
 
         System.out.println(str);
     }

@@ -7,10 +7,10 @@ package org.mureinik.jawat.concat;
  */
 public class FunWithString_Example2 {
     public static void main(String[] args) {
-        String str = "Reversim";
+        String str = "DevConfCZ";
 
         // chars are converted to Strings using String.valueOf
-        str = str + '1' + '6';
+        str = str + '1' + '8';
         
         System.out.println(str);
     }

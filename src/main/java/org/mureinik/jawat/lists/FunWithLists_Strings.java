@@ -13,12 +13,13 @@ public class FunWithLists_Strings {
         List<String> list = new ArrayList<>();
 
         // This is a List<String> so List#add(T) is called.
-        list.add("Reversim");
-        list.add("Summit");
-        list.add("2016");
+        list.add("Dev");
+        list.add("Conf");
+        list.add("CZ");
+        list.add("2018");
 
         // Strings are Objects, so List#remove(Object) is called
-        list.remove("Summit");
+        list.remove("CZ");
 
         System.out.println(list);
     }

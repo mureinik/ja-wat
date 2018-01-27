@@ -14,13 +14,13 @@ public class FunWithLists_Chars {
 
         // This is a List<Character>.
         // The char literals are autoboxed to Characters, and List#add(T) is called.
-        list.add('R');
-        list.add('S');
-        list.add('2');
+        list.add('D');
+        list.add('C');
+        list.add('Z');
 
         // A char is essentially a small int.
-        // 'S' is promoted to the int 83, and List#remove(int) is called
-        list.remove('S');
+        // 'Z' is promoted to the int 90, and List#remove(int) is called
+        list.remove('Z');
 
         System.out.println(list);
     }
